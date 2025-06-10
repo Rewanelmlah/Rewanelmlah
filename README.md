@@ -28,10 +28,6 @@ I am a Flutter Developer with a strong passion for creating beautiful, functiona
 
 ---
 
-## 📊 GitHub Stats  
-![Rewan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rewanelmlah&show_icons=true&theme=radical)  
-
----
 
 ## 🌐 Language Skills  
 - Arabic: Native  
