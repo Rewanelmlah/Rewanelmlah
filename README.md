@@ -1,33 +1,40 @@
 # 👋 Hi there, I'm Rewan Elmalah  
 
-I am a Flutter Developer with a strong passion for creating beautiful, functional, and user-friendly mobile applications. I specialize in building cross-platform apps for Android and iOS using Flutter and Dart.  
+I’m a Business Analyst with a technical background in Flutter Development. I specialize in analyzing systems, gathering and documenting requirements, modeling business processes, and transforming ideas into structured solutions that bridge the gap between business needs and technology.
+
+I have a strong foundation in software development, which empowers me to communicate effectively with both stakeholders and development teams.
 
 ---
-
-## 📫 Contact Information  
-- Email: [rwanmohamed86@icloud.com](mailto:rwanmohamed86@icloud.com)  
-- LinkedIn: [Rewan Elmalah](https://www.linkedin.com/in/rewan-elmalah-76a581292)  
-- GitHub: [Rewan Elmalah](https://github.com/Rewanelmlah)  
-
----
-
 ## 🚀 Skills  
+
+### Business Analysis  
+- Requirements Gathering & Documentation (BRD, FSD, User Stories)  
+- UML & Process Modeling (Use Case, Activity, ERD, Sequence)  
+- Tools: draw.io, Lucidchart, Microsoft Word, Excel  
+- SDLC Knowledge (Agile, Waterfall)  
+- Communication with stakeholders & technical teams  
+
+### Technical Background  
 - Languages: Dart, Java, Python  
-- Mobile Development: Flutter, Firebase, REST APIs  
-- State Management: Bloc, Provider, GetX  
-- Databases: SQLite, Hive, Shared Preferences  
+- Mobile Development: Flutter, Firebase  
+- State Management: Bloc, Provider  
+- Databases: SQLite, Hive
 - Tools: Git, VS Code, Android Studio  
 
 
 ---
 
 ## 🤝 Volunteering & Training  
-- Training: Completed a Flutter training program at the Information Technology Institute (ITI), where I gained hands-on experience in building mobile applications using Flutter and Dart.  
-- Member at CAT Reloaded  
-- Volunteer at IEEE Mansoura Computer Society  
+- 🎓 Completed: *Business Analysis Practical Shortcuts – Udemy*  
+- 🎓 Completed: *Flutter Development Training – ITI*  
+- 👩‍💻 Member at CAT Reloaded  
+- 💡 Volunteer at IEEE Mansoura Computer Society  
 
 ---
 
+## 🧠 Currently Working On  
+- Building a Business Analyst portfolio with practical case studies  
+- Learning advanced BA tools and methodologies (BABOK, BPMN)
 
 ## 🌐 Language Skills  
 - Arabic: Native  
